@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volvo.Trucks.App", "Volvo.Trucks.App\Volvo.Trucks.App.csproj", "{2CDDA149-FC7D-4B3E-A1A8-C1A68A68267E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volvo.Trucks.Test", "Volvo.Trucks.Test\Volvo.Trucks.Test.csproj", "{56684FD8-B405-4B37-BEF3-22685DAD45FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CDDA149-FC7D-4B3E-A1A8-C1A68A68267E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDDA149-FC7D-4B3E-A1A8-C1A68A68267E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDDA149-FC7D-4B3E-A1A8-C1A68A68267E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDDA149-FC7D-4B3E-A1A8-C1A68A68267E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56684FD8-B405-4B37-BEF3-22685DAD45FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56684FD8-B405-4B37-BEF3-22685DAD45FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56684FD8-B405-4B37-BEF3-22685DAD45FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56684FD8-B405-4B37-BEF3-22685DAD45FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5633FDD6-718B-4947-9E46-30EA852A3750}
+	EndGlobalSection
+EndGlobal
